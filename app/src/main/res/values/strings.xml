@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterActivityCommunication</string>
+    <string name="enter_firstname_hint">Enter First Name</string>
+    <string name="enter_lastname_hint">Enter Last Name</string>
+    <string name="update_firstname_hint">Update First Name</string>
+    <string name="update_lastname_hint">Update Last Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="clear">Clear</string>
+</resources>
